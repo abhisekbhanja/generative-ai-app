@@ -3,7 +3,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_community.vectorstores.faiss import FAISS
 from langchain_community.retrievers import BM25Retriever
 #from langchain.retrievers import EnsembleRetriever
-from langchain_core.retrievers import EnsembleRetriever
+from langchain_classic.retrievers import EnsembleRetriever
 from model_config import get_embedding, get_llm
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnableLambda, RunnableParallel, RunnablePassthrough

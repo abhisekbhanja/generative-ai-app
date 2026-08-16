@@ -1,4 +1,0 @@
-python -m venv langchain-env
-langchain-env\Scripts\activate
-pip install langchain
-[REDACTED_HUGGINGFACE_TOKEN]

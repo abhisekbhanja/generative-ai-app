@@ -22,6 +22,6 @@ embedding = get_embedding()
 db = FAISS.from_documents(chunks, embedding)
 print("Vectorstore created successfully.")
 # Save vector database
-db.save_local("faiss_index")
-print("Vectorstore saved locally as 'faiss_index'.")
+db.save_local("faiss_index1")
+print("Vectorstore saved locally as 'faiss_index1'.")
 
