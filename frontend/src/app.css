@@ -1,0 +1,92 @@
+.app-shell {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  padding: 24px;
+}
+
+.card {
+  width: min(780px, 100%);
+  background: white;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+}
+
+.upload-box {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  border: 2px dashed #94a3b8;
+  border-radius: 12px;
+  padding: 16px;
+  margin-top: 16px;
+  cursor: pointer;
+  background: #f8fafc;
+}
+
+.upload-box input {
+  display: none;
+}
+
+.input-row {
+  display: flex;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+input {
+  flex: 1;
+  padding: 12px 14px;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  font-size: 1rem;
+}
+
+button {
+  padding: 12px 16px;
+  border: none;
+  border-radius: 10px;
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.7;
+  cursor: wait;
+}
+
+.file-list {
+  margin-top: 12px;
+  color: #475569;
+}
+
+.answer-box {
+  margin-top: 16px;
+  padding: 14px;
+  background: #f8fafc;
+  border-radius: 12px;
+  min-height: 100px;
+  white-space: pre-wrap;
+}
+
+.success {
+  color: #166534;
+  background: #dcfce7;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.error {
+  color: #b91c1c;
+  background: #fee2e2;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.muted {
+  color: #64748b;
+}

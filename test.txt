@@ -1,0 +1,54 @@
+Employee Handbook - TechNova Solutions (Sample Knowledge Base for RAG Testing)
+This document is fictional and is intended for testing Retrieval-Augmented Generation (RAG) applications. It contains information across multiple topics so that semantic search and question answering can be evaluated.
+Company Overview
+TechNova Solutions is a software company founded in 2018. The headquarters is located in Bengaluru, India.
+The company develops cloud-native applications, AI solutions, and enterprise platforms.
+The CEO is Ananya Rao and the CTO is Vikram Mehta.
+Working Hours
+Employees work Monday through Friday.
+Standard office hours are 9:30 AM to 6:30 PM.
+Hybrid employees are required to work from the office at least three days each week.
+Leave Policy
+Employees receive 20 paid leave days per year.
+Casual leave is limited to 8 days.
+Sick leave is limited to 10 days.
+Unused casual leave cannot be carried forward.
+Maternity leave is 26 weeks.
+Paternity leave is 15 days.
+Travel Policy
+Flights under 800 km should be booked in Economy class.
+Hotel reimbursement is limited to ₹6,000 per night unless pre-approved.
+Taxi expenses require digital receipts.
+IT Support
+Resetting passwords requires MFA verification.
+The IT helpdesk email is helpdesk@technova.example.
+Critical incidents have a response time of 30 minutes.
+Normal priority requests are resolved within two business days.
+Technology Stack
+Backend services use Java 21 and Spring Boot.
+Frontend applications use React.
+Microservices communicate using REST and Kafka.
+Kubernetes is used for deployment.
+NGINX Ingress handles external traffic.
+PostgreSQL is the primary database.
+Redis is used for caching.
+Security Policy
+Passwords must contain at least 12 characters.
+Multi-factor authentication is mandatory.
+USB storage devices are blocked by default.
+Confidential data must be encrypted at rest and in transit.
+Training
+New employees complete onboarding within five days.
+Annual cybersecurity training is mandatory.
+Cloud certification costs are reimbursed after successful completion.
+Sample Questions for RAG Testing
+•	What are the office working hours?
+•	How many paid leave days are available?
+•	Who is the CTO?
+•	What database is used by the company?
+•	What is the hotel reimbursement limit?
+•	What is the IT helpdesk email?
+•	Which technology is used for caching?
+•	How long is maternity leave?
+•	What is the response time for critical IT incidents?
+•	Which ingress controller is used in Kubernetes?

@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+ENV/
+langchain-env/
+.pytest_cache/
+.mypy_cache/
+.pyre/
+.coverage
+coverage.xml
+htmlcov/
+*.egg-info/
+
+# Generated project data
+faiss_index/
+sales_index/
+
+# Environment and local config
+.env
+.env/
+.env.*
+*.log
+
+# Node / frontend
+node_modules/
+frontend/node_modules/
+dist/
+build/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

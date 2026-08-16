@@ -1,0 +1,13 @@
+OrderID,OrderDate,Customer,Product,Category,Quantity,UnitPrice,TotalAmount,Salesperson,Region,PaymentStatus
+1001,2026-01-05,Acme Corp,Laptop,Electronics,5,55000,275000,John,East,Paid
+1002,2026-01-07,Beta Ltd,Monitor,Electronics,10,12000,120000,Priya,West,Paid
+1003,2026-01-10,Gamma Inc,Keyboard,Accessories,25,1500,37500,Rahul,North,Pending
+1004,2026-01-12,Delta Pvt,Mouse,Accessories,30,800,24000,Anita,South,Paid
+1005,2026-01-15,Omega Tech,Printer,Office,3,18000,54000,John,East,Paid
+1006,2026-01-18,Nova Systems,Desk Chair,Furniture,8,7000,56000,Priya,West,Pending
+1007,2026-01-20,Zen Solutions,Projector,Office,2,45000,90000,Rahul,North,Paid
+1008,2026-01-22,CloudSoft,SSD 1TB,Storage,15,6500,97500,Anita,South,Paid
+1009,2026-01-24,Pixel Labs,Server,Infrastructure,1,250000,250000,John,East,Pending
+1010,2026-01-28,Future AI,Webcam,Accessories,20,3000,60000,Priya,West,Paid
+1011,2026-02-02,Bright Corp,Router,Networking,12,8500,102000,Rahul,North,Paid
+1012,2026-02-05,Vision Tech,Switch,Networking,6,22000,132000,Anita,South,Pending
