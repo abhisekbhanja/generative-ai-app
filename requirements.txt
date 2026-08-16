@@ -3,6 +3,7 @@ langchain_community
 langchain
 langchain_huggingface
 langchain_chroma
+langchain-faiss
 fastapi
 uvicorn
 
